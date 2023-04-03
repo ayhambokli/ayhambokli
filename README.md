@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Passionate and self-driven individual who just finished a Bootcamp in data science at Le Wagon berlin with a master's in information operation management.<br>would like to start a new journey in data analysis
+Passionate and self-driven individual who just finished a Bootcamp in data science at Le Wagon berlin with a master's in information operation management.
 
 
 ## 🌐 Socials:
